@@ -1,2 +1,0 @@
-# consulltor
-Dicas &amp; Problemas
